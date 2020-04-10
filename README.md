@@ -3,7 +3,7 @@ products of quarantine entertainment :O
 
 Check out final products here:
 
-Map - https://rpubs.com/eleff/cvmap
+Map - https://rpubs.com/eleff/cvdeathtoll
 
 Graph of Recovered Cases - https://rpubs.com/eleff/cvrecovered
 
