@@ -13,6 +13,6 @@ Graph of Deaths - https://rpubs.com/eleff/cvdeaths
 Data sources:
 
 
-Map data - https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/03-20-2020.csv
+Map data - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
 
 Graph data - https://github.com/pomber/covid19
